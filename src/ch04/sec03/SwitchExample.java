@@ -3,6 +3,7 @@ package ch04.sec03;
 public class SwitchExample {
 	public static void main(String[] args) {
 		int num = (int)(Math.random() * 6) + 1 ;
+		System.out.printf("random: %f, num: %d\n", Math.random(), num);
 		
 		switch(num) {
 			case 1 :
