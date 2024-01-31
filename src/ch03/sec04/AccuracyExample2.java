@@ -7,7 +7,7 @@ public class AccuracyExample2 {
 		int number = 7;
 		
 		double result = totalpieces - number;
-		System.out.println("10조각에서 남은 조각: " + result);
+		System.out.println("10조각에서 남은 조각:  " + result);
 		System.out.printf("사과 1개에서 남은 양: %.2f\n", result);
 		
 	}
