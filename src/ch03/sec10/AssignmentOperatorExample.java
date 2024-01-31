@@ -19,7 +19,7 @@ public class AssignmentOperatorExample {
 		System.out.println("result= " + result);
 
 		int result1 = 100;
-		int res = (result1 != 100) ? 1 : 0;
+		int res = (result1 == 100) ? 1 : 0;
 		System.out.println(res);
 		
 	}
