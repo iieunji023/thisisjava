@@ -7,7 +7,7 @@ public class ContinueExample {
 				continue;
 				
 			}
-			System.out.print(i + " ");
+			System.out.print(i + " ");	// continue문을 쓰면 해당 명령을 실행하지 않고, 다시 for문으로 올라감
 			
 		}
 		
