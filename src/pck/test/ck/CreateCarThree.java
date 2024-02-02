@@ -1,7 +1,5 @@
 package pck.test.ck;
 
-import java.util.Scanner;
-
 /* 2. 생성자를 이용하여 초기화하기 */
 class CarThree{
 	// 멤버변수, 속성, 필드 생성
@@ -10,12 +8,12 @@ class CarThree{
 	String carColor;
 	int carYear;
 	
-	
 	/* 생성자는 클래스 이름과 동일함
 	 * 생성자 오버로딩 = 생성자 이름은 같은 받는 매개변수가 다름
 	 */
 	CarThree() {				// 생성자(디폴트생성자: 입력이 없는 생성자)
 		System.out.printf("나는 디폴트 생성자입니다. \n");
+		
 		
 	}
 	
