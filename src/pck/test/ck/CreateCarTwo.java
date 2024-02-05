@@ -8,7 +8,7 @@ class CarTwo{
 	String carColor;
 	int carYear;
 	
-	/* setModelName이라는 메서드(멤버함수, 기능, 행위) 생성 -> modelName를 입력 값으로 받음
+	/* setModelName이라는 메서드(멤버함수, 기능, 행위) 생성 -> modelName을 입력 값으로 받음
 	 * 매개변수 String modelName는 setModelName이라는 메서드에서만 사용할 수 있는 지역변수.
 	 * class CarTwo{}에 생성된 String modelName은 전역변수로 두개는 다름
 	 */
