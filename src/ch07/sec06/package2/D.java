@@ -26,9 +26,9 @@ public class D extends A{
 	 */
 	// 메소드 선언
 	public void method2() {
-		A a = new A();				//X
-		a.field = "value";			//X
-		a.method();					//X
+//		A a = new A();				//X
+//		a.field = "value";			//X
+//		a.method();					//X
 			
 	}
 	

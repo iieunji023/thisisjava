@@ -12,7 +12,6 @@ public class CalculatorExample {
 		 * plus 메소드 호출 시 5와 6을 매개값으로 제공하고,
 		 * 덧셈 결과를 리턴 받아 result1 변수에 대입
 		 */
-		
 		int result1 = myCalc.plus(5, 6);
 		System.out.println("[plus]result1: " + result1);
 		

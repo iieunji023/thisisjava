@@ -9,8 +9,8 @@ public class C {
 		 * 다른 패키지고, 자식 객체도 아니므로 사용이 불가능하다.
 		 */
 		A a = new A();			//X
-		a.field = "value";		//X
-		a.method();				//X
+//		a.field = "value";		//X
+//		a.method();				//X
 		
 	}
 
